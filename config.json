@@ -1,0 +1,13 @@
+{
+  "display_duration": 10,
+  "hotkey": "page_down",
+  "hotkey_count": 3,
+  "hotkey_window": 5,
+  "browser": "edge",
+  "usb_detect": true,
+  "manual_trigger": true,
+  "tray_icon": true,
+  "poll_interval": 2,
+  "usb_cooldown": 8,
+  "log_enabled": true
+}
